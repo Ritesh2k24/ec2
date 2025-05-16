@@ -1,6 +1,5 @@
 provider "aws" {
   region = "us-east-1"
-  profile = "default"
 }
 
 # Generate a new SSH key pair locally (optional)
